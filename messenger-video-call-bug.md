@@ -29,5 +29,5 @@ the camera and turn it back on again to restore video.
 - OS: iOS
 - app: Messenger
 
-## 📎 Notes## 📎 Notes
+## 📎 Notes
 This bug was documented during QA practice and adapted here for portfolio purposes.
